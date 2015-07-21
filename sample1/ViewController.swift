@@ -19,7 +19,9 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+    @IBOoutlet var button:UIbutton
+    @IBAction func buttontapped(sender:AnyObject
 
 }
 
